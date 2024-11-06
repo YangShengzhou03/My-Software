@@ -1,28 +1,32 @@
-BSD 3-Clause License
+LeafAuto Software License Agreement
 
-Copyright (c) 2024, YangShengzhou03
+This LeafAuto Software License Agreement (hereinafter referred to as "this Agreement") is a legal agreement between you, whether an individual or a single entity (collectively referred to as the "User"), and Yangshengzhou (hereinafter referred to as the "Licensor"), concerning the use of LeafAuto software (hereinafter referred to as "the Software"). By installing, copying, or otherwise using the Software, you indicate that you have read, understood, and agree to be bound by all terms and conditions of this Agreement. If you do not accept any term of this Agreement, you should not install or use the Software.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+License Grant
+1.1 The Licensor grants the User a non-exclusive, non-transferable license to install and use the Software on a single computer.
+1.2 The User shall not reverse engineer, decompile, decode, or otherwise attempt to obtain the source code of the Software.
+1.3 The User shall not rent, lease, resell, or otherwise transfer in any form the right to use the Software.
+1.4 The User shall not use the Software for any illegal purpose or in a manner that infringes upon third-party rights.
+Ownership of Software
+2.1 All copyrights of the Software and its copies belong to the Licensor.
+2.2 The User is granted only a limited license to use the Software, not ownership of it.
+Usage Restrictions
+3.1 The User shall not modify, adapt, translate, or create derivative works based on the Software.
+3.2 The User shall not remove, overwrite, or alter any copyright, trademark, or other proprietary notices contained in the Software.
+3.3 The User shall not use the Software for any activities that violate laws and regulations.
+Disclaimer
+4.1 The Software is provided "as is" without any warranties of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+4.2 The Licensor does not warrant that the Software is error-free or will operate continuously without failure.
+Limitation of Liability
+5.1 Under no circumstances shall the Licensor be liable for any indirect, special, incidental, or consequential damages (including but not limited to loss of profits, business interruption, or data loss) arising from the use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
+5.2 The maximum liability of the Licensor to the User shall not exceed the actual amount paid by the User for the Software, if any.
+Termination of Agreement
+6.1 If the User breaches any term of this Agreement, the Licensor has the right to terminate this Agreement immediately.
+6.2 Upon termination of this Agreement, the User must destroy all copies of the Software and related documentation.
+Governing Law and Dispute Resolution
+7.1 This Agreement is governed by and construed in accordance with the laws of the People's Republic of China.
+7.2 Any disputes arising out of or in connection with this Agreement shall be submitted to the Beijing Arbitration Commission for arbitration according to the arbitration rules in effect at the time of the application for arbitration. The arbitral award is final and binding on both parties.
+Miscellaneous Provisions
+8.1 This Agreement constitutes the entire agreement between the User and the Licensor regarding the use of the Software, superseding all prior oral or written agreements concerning the use of the Software.
+8.2 Any modification or supplement to this Agreement must be made in writing and signed by an authorized representative of the Licensor to take effect.
+8.3 If any provision of this Agreement is found to be invalid or unenforceable, it shall not affect the validity and enforceability of the remaining provisions.
